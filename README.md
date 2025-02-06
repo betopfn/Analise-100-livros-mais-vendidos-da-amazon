@@ -1,4 +1,4 @@
-Análise dos 100 Livros Mais Vendidos da Amazon
+###Análise dos 100 Livros Mais Vendidos da Amazon
 Este projeto realiza uma análise de dados detalhada dos 100 livros mais vendidos da Amazon, oferecendo uma visão abrangente do mercado editorial e das preferências dos leitores. A aplicação web interativa permite explorar os dados de forma intuitiva, com filtros e visualizações que facilitam a compreensão das tendências e padrões.
 
 Visão Geral
